@@ -2,7 +2,7 @@
 
 🎓 Student at Vanier College  
 💻 Learning Java, C#, Python, and Web Development  
-📫 Reach me at: yourname@example.com  
+📫 Reach me at: tony520777@gmail.com  
 
 ## 🌟 My Projects
 - [Library Management REST API](https://github.com/NanZhang777/LibraryManagementProject)

@@ -4,6 +4,10 @@
 💻 Learning Java, C#, Python, and Web Development  
 📫 Reach me at: tony520777@gmail.com  
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+
 ## 🌟 My Projects
 - [Library Management REST API](https://github.com/NanZhang777/LibraryManagementProject)
 

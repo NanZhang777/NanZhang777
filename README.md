@@ -1,4 +1,11 @@
-## Hi there 👋
+# 👋 Hi, I'm Nan Zhang
+
+🎓 Student at Vanier College  
+💻 Learning Java, C#, Python, and Web Development  
+📫 Reach me at: yourname@example.com  
+
+## 🌟 My Projects
+- [Library Management REST API](https://github.com/NanZhang777/LibraryManagementProject)
 
 <!--
 **NanZhang777/NanZhang777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

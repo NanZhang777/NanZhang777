@@ -8,7 +8,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## 🌟 My Projects
-- [Library Management REST API]([https://github.com/NanZhang777/LibraryManagementProject](https://github.com/NanZhang777/Library-Management-REST-API))
+- [Library Management REST API]([[https://github.com/NanZhang777/LibraryManagementProject](https://github.com/NanZhang777/Library-Management-REST-API)](https://github.com/NanZhang777/Library-Management-REST-API))
 
 <!--
 **NanZhang777/NanZhang777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -20,7 +20,8 @@ Tools & Concepts: Git, GitHub, Agile methodology, Basic DevOps operations, OOP
 
 
 ## 🌟 My Projects
-- [Library Management REST API](https://github.com/NanZhang777/Library-Management-REST-API)
+- [Library Management (React.js + Express.js)](https://github.com/NanZhang777/library-management-system)
+- [Library Management (React.js + Java)](https://github.com/NanZhang777/Library-Management-REST-API)
 
 <!--
 **NanZhang777/NanZhang777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

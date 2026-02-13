@@ -2,9 +2,13 @@
 
 💻 TECHNICAL SKILLS
 Programming Languages: Java, JavaScript, C#, Python, SQL, PHP
+
 Frameworks &Libraries: Spring Boot, React.js, Express.js, .NET, Flask, Bootstrap, jQuery
+
 Web & Databases: HTML, CSS, REST APIs, PostgreSQL, MySQL, SQL Server, SQLite, MongoDB, IBM DB2
+
 Tools & Concepts: Git, GitHub, Agile methodology, Basic DevOps operations, OOP  
+
 📫 Reach me at: tony520777@gmail.com  
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
